@@ -9,6 +9,7 @@ Unzip IN FOLDER and run main.py
 - pygame 1.9.8 or higher
 
 # Examples screenshots
-![image](https://user-images.githubusercontent.com/44743531/161591586-4dc9ef4e-255c-4c32-8c5a-86659e4fe79b.png)
-![image](https://user-images.githubusercontent.com/44743531/161591687-465326ac-becf-4a46-8ab7-4ea913a6f25b.png)
 
+![image](https://user-images.githubusercontent.com/44743531/161592095-5514b626-3618-4e4a-8cf2-093b5591310b.png)
+
+![image](https://user-images.githubusercontent.com/44743531/161592250-dad70bbd-50be-4aff-ad3b-377fa06a31b0.png)
