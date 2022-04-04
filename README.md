@@ -10,6 +10,6 @@ Unzip IN FOLDER and run main.py
 
 # Examples screenshots
 
-![image](https://user-images.githubusercontent.com/44743531/161592095-5514b626-3618-4e4a-8cf2-093b5591310b.png)
+![image](https://user-images.githubusercontent.com/44743531/161592323-e6d65016-486e-4e5e-bc3d-884b78fbe8dd.png)
 
 ![image](https://user-images.githubusercontent.com/44743531/161592250-dad70bbd-50be-4aff-ad3b-377fa06a31b0.png)
